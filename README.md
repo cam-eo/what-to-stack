@@ -4,7 +4,10 @@ A little collection of tools you can utilise on your (mostly web) software proje
 
 ## Frameworks
 
-### Styling
+Vue: https://quasar.dev/
+
+
+## Styling Frameworks
 
 https://styled-components.com/
 
