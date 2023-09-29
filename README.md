@@ -4,6 +4,14 @@ A little collection of tools you can utilise on your (mostly web) software proje
 
 ## Frameworks
 
+### Styling
+
+https://styled-components.com/
+
+## Component Libraries
+
+https://chakra-ui.com/
+
 ## 3D in Web
 
 https://docs.decentraland.org/creator/development-guide/sdk-101/
@@ -14,6 +22,7 @@ https://ui.shadcn.com/
 
 https://bit.dev/
 
+
 ## Hosting
 
 https://railway.app/
@@ -23,3 +32,7 @@ https://fly.io/
 ## Search tools
 
 https://www.elastic.co/
+
+## Testing
+
+https://www.cypress.io/
