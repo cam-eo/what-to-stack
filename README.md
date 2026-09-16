@@ -51,6 +51,11 @@ https://docs.decentraland.org/creator/development-guide/sdk-101/
 
 - https://uigoodies.com/
 
+## Testing
+
+- https://github.com/hatoo/oha (HTTP load testing for server)
+- Grafana K6 (App and infrastructure test with browser performance)
+
 # TODO
 
 - LLM idea Make a mapper to bring technologies together
